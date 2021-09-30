@@ -10,7 +10,8 @@ const Home = () => {
           </div>
         <p>
           Hello, I'm Erik <br />
-          Aspiring Web / Software Developer
+          Aspiring Web / Software Developer <br />
+          Greater Boston, Massachusetts
         </p>
         </header>
       </div>

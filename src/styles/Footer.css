@@ -2,6 +2,10 @@
     background-color: transparent;
     padding: 15px;
     transition: all 3s ease-in-out;
+    clear: both;
+    position: relative;
+    height: 180px;
+    width: 100%;
 }
 
 .social-links {

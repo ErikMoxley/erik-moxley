@@ -9,22 +9,19 @@ const Nav = () => {
     <div className="navigation">
         <div className="links">
             <Link to="/">
-                <Button variant="outline-dark">Home</Button>
+                <Button className="btn" variant="dark">Home</Button>
             </Link>
             <Link to="/about">
-                <Button variant="outline-dark">About</Button>
+                <Button variant="dark">About</Button>
             </Link>
             <Link to="/projects">
-                <Button variant="outline-dark">Projects</Button>
+                <Button variant="dark">Projects</Button>
             </Link>
-            <Link to="/Skills">
-                <Button variant="outline-dark">Skills</Button>
+            <Link to="/skills">
+                <Button variant="dark">Skills</Button>
             </Link>
-            <Link to="/Blog">
-                <Button variant="outline-dark">Blog</Button>
-            </Link>
-            <Link to="/Contact">
-                <Button variant="outline-dark">Contact</Button>
+            <Link to="/contact">
+                <Button variant="dark">Contact</Button>
             </Link>
 </div></div>
   );

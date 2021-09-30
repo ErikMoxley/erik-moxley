@@ -1,3 +1,5 @@
+import Button from 'react-bootstrap/Button';
+
 const Contact = () => {
   return (
 <div className="content">
@@ -48,7 +50,7 @@ const Contact = () => {
       <textarea name="message" id="yourmessage"></textarea>
     </p>
     <p>
-      <button type="submit">Submit</button>
+      <Button type="submit" variant="light">Submit</Button>
     </p>
   </form>
   </div>

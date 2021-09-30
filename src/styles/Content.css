@@ -8,6 +8,12 @@
     -o-animation: fadeIn ease 2s;
     -ms-animation: fadeIn ease 2s;
 }
+@media only screen and (max-width : 591.98px) {
+  .content  {
+    padding-top: 20px;
+   }
+  }
+  
 @keyframes fadeIn {
   0% {opacity:0;}
   100% {opacity:1;}

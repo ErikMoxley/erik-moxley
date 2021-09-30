@@ -10,6 +10,7 @@ import Home from "./components/pages/Home";
 import About from "./components/pages/About";
 import Projects from "./components/pages/Projects";
 import Skills from "./components/pages/Skills";
+import Resume from "./components/pages/Resume";
 import Blog from "./components/pages/Blog";
 import Contact from "./components/pages/Contact";
 
@@ -26,6 +27,7 @@ function App() {
               <Route path="/projects" component={Projects} />
               <Route path="/skills" component={Skills} />
               <Route path="/blog" component={Blog} />
+              <Route path="/resume" component={Resume} />
               <Route path="/contact" component={Contact} />
             </Switch>
         <Footer/>

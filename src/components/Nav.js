@@ -20,6 +20,9 @@ const Nav = () => {
             <Link to="/skills">
                 <Button variant="dark">Skills</Button>
             </Link>
+            <Link to="/resume">
+                <Button variant="dark">Resume</Button>
+            </Link>
             <Link to="/contact">
                 <Button variant="dark">Contact</Button>
             </Link>

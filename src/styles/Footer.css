@@ -3,3 +3,43 @@
     padding: 15px;
     transition: all 3s ease-in-out;
 }
+
+.social-links {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+}
+
+.social-icons {
+    display: inline-block;
+    padding: 5px 5px;
+}
+
+.social-icons a {
+    display: block;
+    width: 35px;
+    height: 35px;
+    background-size: 100% 100%;
+}
+
+.twitter{
+	background-image: url(../assets/images/twitter.png);
+}
+.instagram{
+	background-image: url(../assets/images/instagram.png);
+}
+.linkedin{
+	background-image: url(../assets/images/linkedin.png);
+}
+.twitch{
+	background-image: url(../assets/images/twitch.png);
+}
+.github{
+	background-image: url(../assets/images/github.png);
+}
+.polywork{
+	background-image: url(../assets/images/polywork.png);
+}
+.hashnode{
+	background-image: url(../assets/images/hashnode.png);
+}

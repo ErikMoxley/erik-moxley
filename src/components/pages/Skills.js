@@ -3,7 +3,7 @@ const Skills = () => {
       <div className="content">
         <header className="title">
           <p>
-            Skills
+            Skills: Coming Soon!
           </p>
         </header>
       </div>

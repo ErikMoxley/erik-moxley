@@ -3,7 +3,7 @@ const Projects = () => {
       <div className="content">
         <header className="title">
           <p>
-            Projects
+            Projects: Coming Soon!
           </p>
         </header>
       </div>

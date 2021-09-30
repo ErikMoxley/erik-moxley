@@ -7,9 +7,6 @@ import Hashnode from "../assets/images/hashnode.png";
 import Instagram from "../assets/images/instagram.png";
 import Twitch from "../assets/images/twitch.png";
 
-
-
-
 function Footer() {
   return (
       <footer className="footer">

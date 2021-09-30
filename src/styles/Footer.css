@@ -15,14 +15,14 @@
     padding: 5px 5px;
 }
 
-.social-icons a {
+.social-icons img {
     display: block;
     width: 35px;
     height: 35px;
     background-size: 100% 100%;
 }
 
-.twitter{
+/* .twitter{
 	background-image: url(../assets/images/twitter.png);
 }
 .instagram{
@@ -42,4 +42,4 @@
 }
 .hashnode{
 	background-image: url(../assets/images/hashnode.png);
-}
+} */

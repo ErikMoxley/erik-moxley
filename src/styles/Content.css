@@ -110,7 +110,7 @@
 @media screen and (max-width: 500px) {
   #name, #email, #message {
     margin-left: -20px;
-    width: 130%;
+    width: 120%;
   }
 }
 

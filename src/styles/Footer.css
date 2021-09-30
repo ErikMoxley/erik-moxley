@@ -7,6 +7,11 @@
     height: 180px;
     width: 100%;
 }
+@media only screen and (max-width : 991.98px) {
+    .footer-bottom {
+        margin-top: -200px;
+     }
+    }
 
 .social-links {
     list-style: none;

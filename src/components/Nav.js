@@ -12,19 +12,19 @@ const Nav = () => {
                 <Button className="btn" variant="dark">Home</Button>
             </Link>
             <Link to="/about">
-                <Button variant="dark">About</Button>
+                <Button className="btn" variant="dark">About</Button>
             </Link>
             <Link to="/projects">
-                <Button variant="dark">Projects</Button>
+                <Button className="btn" variant="dark">Projects</Button>
             </Link>
             <Link to="/skills">
-                <Button variant="dark">Skills</Button>
+                <Button className="btn" variant="dark">Skills</Button>
             </Link>
             <Link to="/resume">
-                <Button variant="dark">Resume</Button>
+                <Button className="btn" variant="dark">Resume</Button>
             </Link>
             <Link to="/contacts">
-                <Button variant="dark">Contact</Button>
+                <Button className="btn" variant="dark">Contact</Button>
             </Link>
 </div></div>
   );

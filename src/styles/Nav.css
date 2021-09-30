@@ -8,5 +8,13 @@
 }
 
 .btn {
-    margin-right: 3px;
+    margin-right: 5px;
 }
+@media only screen and (max-width : 591.98px) {
+    .btn  {
+        margin-right: 1px;
+        font-size: 11px;
+        width: 60px;
+        height: 30px;
+     }
+    }

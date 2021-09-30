@@ -35,13 +35,13 @@ const Contact = () => {
       <label htmlFor="name">
         Your Name:
       </label><br/>
-      <input type="text" name="name" id="yourname" />
+      <input type="text" name="name" id="name" />
     </p>
     <p>
       <label htmlFor="email">
         Your Email:
       </label><br/>
-      <input type="email" name="email" id="youremail" />
+      <input type="email" name="email" id="email" />
     </p>
     <p>
       <label htmlFor="message">

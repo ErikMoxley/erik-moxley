@@ -23,7 +23,7 @@ const Nav = () => {
             <Link to="/resume">
                 <Button variant="dark">Resume</Button>
             </Link>
-            <Link to="/contact">
+            <Link to="/contacts">
                 <Button variant="dark">Contact</Button>
             </Link>
 </div></div>

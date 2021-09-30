@@ -4,7 +4,7 @@ const Contact = () => {
   <div className="flex-container">
   <div className="flex-child">
     <h2 className="con-title">Contact</h2>
-      {/* <p>Feel free to contact me via social media or through the working contact form built using Netlify forms.</p> */}
+      <p>Feel free to contact me via social media or through the working contact form built using Netlify forms.</p>
         <ul className="address">
         <a href='https://goo.gl/maps/f3D1vfaadg7MvoC66' alt='' target="_blank" rel="noopener noreferrer">
           <li>Greater Boston, United States</li></a>
@@ -42,7 +42,7 @@ const Contact = () => {
       <input type="email" name="email" id="youremail" />
     </p>
     <p>
-      <label htmlFor="yourmessage">
+      <label htmlFor="message">
         Message:
       </label><br/>
       <textarea name="message" id="yourmessage"></textarea>

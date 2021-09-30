@@ -28,7 +28,7 @@ function App() {
               <Route path="/skills" component={Skills} />
               <Route path="/blog" component={Blog} />
               <Route path="/resume" component={Resume} />
-              <Route path="/contact" component={Contact} />
+              <Route path="/contacts" component={Contact} />
             </Switch>
         <Footer/>
       </div>

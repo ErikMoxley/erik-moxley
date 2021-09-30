@@ -26,19 +26,19 @@ const Contact = () => {
   </div>
 
 <div className="flex-child">
-<form name="form-name" method="POST" data-netlify="true">
+<form name="contact" method="POST" data-netlify="true">
 <input type="hidden" name="form-name" value="contact-form" />
 <p className="hidden">
   <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
 </p>
     <p>
-      <label htmlFor="yourname">
+      <label htmlFor="name">
         Your Name:
       </label><br/>
       <input type="text" name="name" id="yourname" />
     </p>
     <p>
-      <label htmlFor="youremail">
+      <label htmlFor="email">
         Your Email:
       </label><br/>
       <input type="email" name="email" id="youremail" />
@@ -47,10 +47,10 @@ const Contact = () => {
       <label htmlFor="message">
         Message:
       </label><br/>
-      <textarea name="message" id="yourmessage"></textarea>
+      <textarea name="message" id="message"></textarea>
     </p>
     <p>
-      <Button type="submit" variant="light">Submit</Button>
+      <Button type="submit" variant="light" value="Submit message">Submit</Button>
     </p>
   </form>
   </div>

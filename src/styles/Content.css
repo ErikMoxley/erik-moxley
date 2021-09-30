@@ -96,15 +96,22 @@
   letter-spacing:-0.001cm;
 }
 
-#yourname, #youremail{
+#name, #email{
   width: 300px;
 }
 
-#yourmessage {
+#message {
   width: 300px;
   height: 100px;
   margin: 0;
   position: relative;
+}
+
+@media screen and (max-width: 500px) {
+  #name, #email, #message {
+    margin-left: -20px;
+    width: 130%;
+  }
 }
 
 ul {

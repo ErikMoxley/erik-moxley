@@ -24,8 +24,8 @@ const Contact = () => {
   </div>
 
 <div className="flex-child">
-<form name="form" method="POST" data-netlify="true">
-<input type="hidden" name="form-name" value="contact" />
+<form name="form-name" method="POST" data-netlify="true">
+<input type="hidden" name="form-name" value="contact-form" />
 <p className="hidden">
   <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
 </p>

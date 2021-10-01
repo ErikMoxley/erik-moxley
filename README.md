@@ -1,5 +1,5 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/593629ba-4fd3-4388-bdeb-283b7633b0ff/deploy-status)](https://app.netlify.com/sites/ecstatic-elion-f4623c/deploys)
-
+## Netlify Status Badge:
+[   ![Netlify Status](https://api.netlify.com/api/v1/badges/2aa7c574-a85d-4f4b-9100-d1b125c77876/deploy-status)](https://app.netlify.com/sites/ecstatic-elion-f4623c/deploys)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

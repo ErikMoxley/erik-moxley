@@ -23,4 +23,6 @@ html {
     background-color: rgb(27, 27, 27);
     padding-top: 7rem;
     min-height: 40vh;
+    min-height: 100%;
+
 }

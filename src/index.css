@@ -4,14 +4,14 @@ body {
       sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background:rgb(27, 27, 27);
+    background-color: rgb(27, 27, 27);
     color: white;
     position: relative;
     min-height: 100%;
   }
 
 html {
-    background:rgb(27, 27, 27);
+    background-color:rgb(27, 27, 27);
     color: white;
     min-height: 100%;
   }
@@ -19,7 +19,7 @@ html {
 .container {
     background-position: center;
     background-position: fixed;
-    background:rgb(27, 27, 27);
+    background-color: rgb(27, 27, 27);
     padding-top: 7rem;
     min-height: 100%;
 }

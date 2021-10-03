@@ -13,6 +13,7 @@ html {
     background-color: rgb(27, 27, 27);
     color: white;
     overflow-y: scroll;
+    min-height: 100%;
   }
 
 .container {

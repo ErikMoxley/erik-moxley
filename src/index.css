@@ -13,7 +13,7 @@ body {
 html {
     background-color: rgb(27, 27, 27);
     color: white;
-    overflow-y: scroll;
+    overflow-y: hidden;
     min-height: 100%;
   }
 
@@ -22,7 +22,5 @@ html {
     background-position: fixed;
     background-color: rgb(27, 27, 27);
     padding-top: 7rem;
-    min-height: 40vh;
     min-height: 100%;
-
 }

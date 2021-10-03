@@ -5,10 +5,10 @@
     background:rgb(27, 27, 27);
     box-shadow: 0 50vh 0 50vh rgb(27, 27, 27);
     clear: both;
-    position: relative;
+    position: absolute;
     height: 150px;
     margin-top: 15px;
-    width: 100%;
+    width: 50%;
 }
 @media only screen and (max-width : 991.98px) {
     .footer {

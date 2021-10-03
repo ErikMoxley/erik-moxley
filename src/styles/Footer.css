@@ -1,16 +1,19 @@
 .footer {
-    background-color: transparent;
-    padding: 15px;
-    transition: all 3s ease-in-out;
+    color: rgb(255, 255, 255);
+    font-family: 'Noto Serif JP', serif;
+    letter-spacing: -0.001cm;
+    background:rgb(27, 27, 27);
+    box-shadow: 0 50vh 0 50vh rgb(27, 27, 27);
     clear: both;
     position: relative;
-    height: 180px;
+    height: 150px;
+    margin-top: 15px;
     width: 100%;
 }
 @media only screen and (max-width : 991.98px) {
-    .footer-bottom {
-        margin-top: -200px;
-     }
+    .footer {
+        font-size: 12px;
+    }
     }
 
 .social-links {

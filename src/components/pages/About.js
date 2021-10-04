@@ -5,9 +5,9 @@ const About = () => {
     return (
       <div className="content">
         <header className="title">
-          <div class="circular--portrait">
+          {/* <div class="circular--portrait">
             <img src={profileImg} alt=''/>
-          </div>
+          </div> */}
         <p className="about-info">
         Hello, my name is Erik and I currently live in the Greater Boston Area. Born in Gloucester, MA near the capes, some of my hobbies and passions include technology, building and fixing PCs, gaming, fantasy sports, dining out, and watching movies in theaters.
         <br/><br/>

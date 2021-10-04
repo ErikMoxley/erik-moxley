@@ -20,7 +20,7 @@ function Footer() {
           <li class="social-icons"><a class="instagram" rel="noopener noreferrer" target="_blank" href="https://www.instagram.com/erik.moxley/"><img src={Instagram} alt=""/></a></li>
           <li class="social-icons"><a class="twitch" rel="noopener noreferrer" target="_blank" href="https://www.twitch.tv/ErikMoxley"><img src={Twitch} alt=""/></a></li>
       </ul>
-      Content Made With: ReactJS, NPM, Javascript, CSS, Netlify CMS
+      Content Made With: ReactJS, NPM, Javascript, CSS, Netlify Forms
     </div>
 <div className="footer-copyright">
     <container>

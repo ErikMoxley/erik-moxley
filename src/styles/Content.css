@@ -124,3 +124,14 @@
 ul {
 list-style:none;
 }
+
+/* Resume Section */
+.timeline {
+  margin: auto;
+  width: 50%;
+}
+@media screen and (max-width: 760px) {
+  .timeline {
+    width: 100%;
+  }
+}

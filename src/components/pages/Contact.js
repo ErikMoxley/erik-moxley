@@ -11,6 +11,9 @@ const Contact = () => {
         <ul className="address">
         <a href='https://goo.gl/maps/f3D1vfaadg7MvoC66' alt='' target="_blank" rel="noopener noreferrer">
           <li>Greater Boston, United States</li></a>
+          <li><span>
+              <a href="tel:+19789358860">Call/Text via Mobile Phone
+              </a></span></li>
           <li>
             <span>
               <a
@@ -18,9 +21,7 @@ const Contact = () => {
                 target="_blank"
                 rel="noopener noreferrer">Email Me via Gmail
               </a></span></li>
-            <li><span>
-              <a href="tel:+19789358860">Call via Phone
-              </a></span></li>
+
                 <li><span><a href="https://erikmoxley.com/" alt='' target="_blank" rel="noopener noreferrer">www.erikmoxley.com
               </a></span></li>
               <li>

@@ -39,9 +39,9 @@ const About = () => {
     </ul>
   </div>
     <p className='resume-link'>
-      Download Resume PDF:&nbsp;
+      Download:&nbsp;
     <span>
-      <a href={ResumePdf} target="_blank" rel="noopener noreferrer">Here</a>
+    <a href={ResumePdf} target="_blank" rel="noopener noreferrer">Resume PDF</a>
     </span>
     </p>  
 </div>

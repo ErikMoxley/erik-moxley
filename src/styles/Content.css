@@ -1,5 +1,12 @@
+a {
+  color:#0062ff
+}
+a:hover {
+  color: rgb(255, 255, 255);
+}
+
 .content {
-    background-color: rgba(0, 76, 199, 0.568);
+    background-color: rgba(0, 50, 131, 0.459);
     padding: 50px;
     padding-top:100px;
     animation: fadeIn ease 2s;
@@ -132,7 +139,7 @@ list-style:none;
 
 /* Resume Section */
 .timeline-container {
-  background-color: rgba(0, 76, 199, 0.568);
+  background-color: rgba(0, 50, 131, 0.459);
   padding: 50px;
   padding-top: 50px;
   animation: fadeIn ease 2s;
@@ -186,6 +193,9 @@ list-style:none;
   font-weight: 500;
   margin-bottom: 10px;
   letter-spacing: 3px;
+}
+.resume-link {
+  padding: 40px;
 }
 @media only screen and (min-width: 985px) {
   .timeline:before {
@@ -252,14 +262,5 @@ list-style:none;
     padding-bottom: 40px;
     margin: 0 auto;
     width: 100%;
-  }
-  .resume-link {
-    padding: 50px;
-  }
-}
-
-@media screen and (max-width: 1968px) {
-  .resume-link {
-    padding-top: 40px;
   }
 }

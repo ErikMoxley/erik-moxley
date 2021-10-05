@@ -8,6 +8,8 @@
     -o-animation: fadeIn ease 2s;
     -ms-animation: fadeIn ease 2s;
     border-radius: 15px;
+    margin: auto;
+    width: 80%;
 }
 @media only screen and (max-width : 591.98px) {
   .content  {

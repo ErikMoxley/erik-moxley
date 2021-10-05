@@ -12,13 +12,13 @@ import {
  
  const Resume = () => {
   const customTheme = {
-   yearColor: '#405b73',
+   yearColor: '#FFFFFF',
    lineColor: '#d0cdc4',
    dotColor: '#262626',
    borderDotColor: '#d0cdc4',
-   titleColor: '#405b73',
+   titleColor: '#FFFFFF',
    subtitleColor: '#bf9765',
-   textColor: '#262626',
+   textColor: '#000000',
   };
  
   return (
@@ -70,7 +70,7 @@ import {
     <YearContent startDate='2007/11' endDate='2009/10' />
     <BodyContent>
      <Section title='Genesis Healthcare'>
-      <Description variant='subtitle' text='General Maintenance Technician' />
+      <Description variant='subtitle' text='Maintenance Technician' />
       <Description text='Description' />
      </Section>
     </BodyContent>

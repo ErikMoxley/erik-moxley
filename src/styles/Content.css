@@ -78,6 +78,9 @@ a:hover {
     left: 50%;
     transform: translate(-50%, 0%)
   }
+  .about-info h3 {
+    padding: 20px;
+  }
   @media screen and (max-width: 767px) {
     .about-info {
       width: 120%;
@@ -154,6 +157,9 @@ list-style:none;
   text-align: center;
   position: relative;
 }
+.timeline-container h3 {
+  padding: 20px;
+}
 .timeline {
   padding-right: 10px;
   width: 100%;
@@ -195,9 +201,9 @@ list-style:none;
   letter-spacing: 3px;
 }
 .resume-link {
-  padding: 40px;
+  padding-top: 120px;
 }
-@media only screen and (min-width: 985px) {
+@media only screen and (min-width: 995px) {
   .timeline:before {
     content: "";
     position: absolute;
@@ -249,6 +255,9 @@ list-style:none;
   }
   .timeline ul li:hover::before {
     background-color: rgb(255, 255, 255);
+  }
+  .resume-link {
+    padding-top: 90px;
   }
 }
 

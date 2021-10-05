@@ -1,5 +1,5 @@
 import ResumePdf from "../../assets/Eric-Kongkaew.pdf"
-import "../../styles/Content.css";
+import "../../styles/Resume.css";
 
 const About = () => {
     return (

@@ -11,6 +11,7 @@
     margin: auto;
     width: 80%;
     text-align: center;
+    position: relative;
 }
 @media only screen and (max-width : 591.98px) {
   .content  {
@@ -129,16 +130,16 @@ list-style:none;
 }
 
 /* Resume Section */
-/* .timeline {
-  margin: auto;
-  width: 50%;
-  padding-left: 90px;}
+.timeline {
+margin: auto;
+width: 50%;
+}
 @media screen and (max-width: 992px) {
   .timeline {
     width: 100%;
     padding-left: 0px;
   }
-}; */
+};
 
 /* .section {
   background-color: black;

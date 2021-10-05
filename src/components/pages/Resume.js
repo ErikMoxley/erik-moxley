@@ -77,7 +77,7 @@ import {
    </Container>
 
    </Timeline>
-  </div>
+   </div>
   <p>
       Download resume PDF:&nbsp;
     <span>

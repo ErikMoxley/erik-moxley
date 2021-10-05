@@ -23,6 +23,7 @@ import {
  
   return (
     <div className="content">
+      <h3>Work History</h3>
       <div className="timeline">
    <Timeline theme={customTheme} dateFormat='ll'>
    <Container>
@@ -76,13 +77,13 @@ import {
    </Container>
 
    </Timeline>
-   <p>
-      Download my resume:&nbsp;
+  </div>
+  <p>
+      Download resume PDF:&nbsp;
     <span>
       <a href={ResumePdf} target="_blank" rel="noopener noreferrer">Here</a>
     </span>
     </p>
-  </div>
 </div>
   );
  };

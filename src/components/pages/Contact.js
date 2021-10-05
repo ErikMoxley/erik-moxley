@@ -1,4 +1,5 @@
 import Button from 'react-bootstrap/Button';
+import ResumePdf from "../../assets/Eric-Kongkaew.pdf"
 
 const Contact = () => {
   return (
@@ -22,6 +23,14 @@ const Contact = () => {
               </a></span></li>
                 <li><span><a href="https://erikmoxley.com/" alt='' target="_blank" rel="noopener noreferrer">www.erikmoxley.com
               </a></span></li>
+              <li>
+              <p>
+      Download:&nbsp;
+    <span>
+      <a href={ResumePdf} target="_blank" rel="noopener noreferrer">Resume PDF</a>
+    </span>
+    </p>
+              </li>
         </ul>
   </div>
 

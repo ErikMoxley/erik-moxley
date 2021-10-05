@@ -4,6 +4,7 @@ import "../../styles/Content.css";
 const About = () => {
     return (
       <div className="content">
+        <h3>About Me</h3>
         <header className="title">
           {/* <div class="circular--portrait">
             <img src={profileImg} alt=''/>

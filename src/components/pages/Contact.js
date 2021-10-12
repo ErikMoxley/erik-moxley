@@ -1,5 +1,5 @@
 import Button from 'react-bootstrap/Button';
-import ResumePdf from "../../assets/Eric-Kongkaew.pdf"
+import ResumePdf from "../../assets/Eric-Kongkaew-Dev.pdf"
 
 const Contact = () => {
   return (

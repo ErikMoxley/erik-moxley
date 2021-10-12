@@ -1,4 +1,4 @@
-import ResumePdf from "../../assets/Eric-Kongkaew.pdf"
+import ResumePdf from "../../assets/Eric-Kongkaew-Dev.pdf"
 import "../../styles/Resume.css";
 
 const About = () => {
@@ -16,7 +16,7 @@ const About = () => {
       </li>
       <li>
         <div class="timeline-content">
-          <h4 class="date">November 2015 - May 2020</h4>
+          <h4 class="date">August 2014 - May 2019</h4>
           <h1>Walgreens Boots Alliance</h1>
           <p>Store Manager</p>
           <p>Assistant Store Manager</p>
@@ -24,7 +24,7 @@ const About = () => {
       </li>
       <li>
         <div class="timeline-content">
-          <h4 class="date">September 2007 - November 2015</h4>
+          <h4 class="date">September 2007 - August 2014</h4>
           <h1>Walgreens Co.</h1>
           <p>Shift Leader</p>
           <p>Customer Service Associate</p>

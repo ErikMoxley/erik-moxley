@@ -13,7 +13,10 @@ const Projects = () => {
             Pokedex API <a href="https://github.com/ErikMoxley/pokedexapi" target="_blank" rel="noopener noreferrer">Source</a>
           </p>
           <p>
-            Movie Database Group Project - Coming Soon!
+            Movie Database API Group Project - Coming Soon!
+          </p>
+          <p>
+            NextJS Restaurant Menu Viewer App Project - Coming Soon!
           </p>
         </header>
       </div>

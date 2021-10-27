@@ -4,19 +4,39 @@ const Projects = () => {
         <header className="title">
         <h3>Projects</h3>
           <p>
-            NextJS Blog - <a href="https://moxleydevblog.netlify.app/" target="_blank" rel="noopener noreferrer">Live</a><span>&nbsp;</span><a href="https://github.com/ErikMoxley/moxleydevblog" target="_blank" rel="noopener noreferrer">Source</a>
+            <b>NextJS Blog</b>
+            <br/>
+            NextJS, React Router Dom, Bootstrap, HTML, CSS, JavaScript
+            <br/>
+            <a href="https://moxleydevblog.netlify.app/" target="_blank" rel="noopener noreferrer">Live</a><span>&nbsp;</span><a href="https://github.com/ErikMoxley/moxleydevblog" target="_blank" rel="noopener noreferrer">Source</a>
           </p>
           <p>
-            Hashnode - <a href="https://hashnode.com/@MoxleyDev" target="_blank" rel="noopener noreferrer">Live</a>
+            <b>Hashnode</b>
+            <br/>
+            Developer Blog
+            <br/>
+            <a href="https://hashnode.com/@MoxleyDev" target="_blank" rel="noopener noreferrer">Live</a>
           </p>
           <p>
-            Pokedex API <a href="https://github.com/ErikMoxley/pokedexapi" target="_blank" rel="noopener noreferrer">Source</a>
+            <b>Pokedex API</b>
+            <br/>
+            React, React Router Dom, Bootstrap, Styled Components, CSS, JavaScript, PokeAPI 
+            <br/>
+            <a href="https://github.com/ErikMoxley/pokedexapi" target="_blank" rel="noopener noreferrer">Source</a>
           </p>
           <p>
-            Movie Database API Group Project - Coming Soon!
+            <b>Movie Site Group Project</b>
+            <br/>
+            HTML, CSS, JavaScript, MovieDB API
+            <br/>
+            Coming Soon! (Figma)
           </p>
           <p>
-            NextJS Restaurant Menu Viewer App Project - Coming Soon!
+            <b>NextJS Restaurant Menu Viewer App Group Project</b>
+            <br/>
+            NextJS, CSS, JavaScript, JSON, Firebase
+            <br/>
+            Coming Soon!
           </p>
         </header>
       </div>

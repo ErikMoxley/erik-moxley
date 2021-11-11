@@ -4,6 +4,13 @@ const Projects = () => {
         <header className="title">
         <h3>Projects</h3>
           <p>
+            <b>Company Forms Page</b>
+            <br/>
+            HTML, CSS, JavaScript, NodeJS, Express, MySQL (Mobile/Desktop Responsive)
+            <br/>
+            <a href="https://erikmoxley.github.io/fs-test-ek/" target="_blank" rel="noopener noreferrer">Live</a><span>&nbsp;</span><a href="https://github.com/ErikMoxley/fs-test-ek/" target="_blank" rel="noopener noreferrer">Source</a>
+          </p>
+          <p>
             <b>NextJS Blog</b>
             <br/>
             NextJS, React Router Dom, Bootstrap, HTML, CSS, JavaScript
@@ -17,6 +24,7 @@ const Projects = () => {
             <br/>
             <a href="https://hashnode.com/@MoxleyDev" target="_blank" rel="noopener noreferrer">Live</a>
           </p>
+          <h3>In-Progress</h3>
           <p>
             <b>Pokedex API</b>
             <br/>
@@ -29,14 +37,13 @@ const Projects = () => {
             <br/>
             HTML, CSS, JavaScript, MovieDB API
             <br/>
-            Coming Soon! (Figma)
+            (Figma)
           </p>
           <p>
-            <b>NextJS Restaurant Menu Viewer App Group Project</b>
+            <b>WEEEB Website and Roster Page</b>
             <br/>
-            NextJS, CSS, JavaScript, JSON, Firebase
+            CSS, JavaScript, React?, RestAPI, User Friendly CMS
             <br/>
-            Coming Soon!
           </p>
         </header>
       </div>

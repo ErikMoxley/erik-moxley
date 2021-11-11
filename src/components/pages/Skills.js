@@ -34,6 +34,12 @@ const Skills = () => {
               <li>
                 NodeJS
               </li>
+              <li>
+                Express
+              </li>
+              <li>
+                MySQL
+              </li>
             </ul>
           </p>
           <p>
@@ -59,6 +65,9 @@ const Skills = () => {
             </li>
             <li>
             Postman
+            </li>
+            <li>
+            Figma
             </li>
           </ul>
           </p>

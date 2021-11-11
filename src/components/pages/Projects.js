@@ -41,9 +41,6 @@ const Projects = () => {
           </p>
           <p>
             <b>WWEEB Website and Roster Page</b>
-            <br/>
-            CSS, JavaScript, React?, RestAPI, User Friendly CMS
-            <br/>
           </p>
         </header>
       </div>

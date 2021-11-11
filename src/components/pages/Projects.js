@@ -40,7 +40,7 @@ const Projects = () => {
             (Figma)
           </p>
           <p>
-            <b>WEEEB Website and Roster Page</b>
+            <b>WWEEB Website and Roster Page</b>
             <br/>
             CSS, JavaScript, React?, RestAPI, User Friendly CMS
             <br/>

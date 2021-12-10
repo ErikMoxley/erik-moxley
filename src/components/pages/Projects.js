@@ -13,7 +13,7 @@ const Projects = () => {
           <p>
             <b>NextJS Blog</b>
             <br/>
-            NextJS, React Router Dom, Bootstrap, HTML, CSS, JavaScript
+            NextJS, React Router Dom, HTML, CSS, JavaScript
             <br/>
             <a href="https://moxleydevblog.netlify.app/" target="_blank" rel="noopener noreferrer">Live</a><span>&nbsp;</span><a href="https://github.com/ErikMoxley/moxleydevblog" target="_blank" rel="noopener noreferrer">Source</a>
           </p>

@@ -33,13 +33,6 @@ const Projects = () => {
             <a href="https://github.com/ErikMoxley/pokedexapi" target="_blank" rel="noopener noreferrer">Source</a>
           </p>
           <p>
-            <b>Movie Site Group Project</b>
-            <br/>
-            HTML, CSS, JavaScript, MovieDB API
-            <br/>
-            (Figma)
-          </p>
-          <p>
             <b>WWEEB Website and Roster Page</b>
           </p>
         </header>

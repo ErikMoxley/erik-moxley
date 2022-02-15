@@ -11,7 +11,7 @@ const About = () => {
         <div class="timeline-content">
           <h4 class="date">October 2021</h4>
           <h1>Thermo Fisher Scientific</h1>
-          <p>Manufacturer Technician I</p>
+          <p>BioProduction I</p>
         </div>
       </li>
       <li>

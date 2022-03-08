@@ -30,14 +30,6 @@ const Projects = () => {
             <span>&nbsp;|&nbsp;</span>
             <a href="https://github.com/ErikMoxley/fe-test-inputs" target="_blank" rel="noopener noreferrer">Source</a>
           </p>
-          <h3>In-Progress</h3>
-          <p>
-            <b>Pokedex API</b>
-            <br/>
-            React, React Router Dom, Bootstrap, Styled Components, CSS, JavaScript, PokeAPI 
-            <br/>
-            <a href="https://github.com/ErikMoxley/pokedexapi" target="_blank" rel="noopener noreferrer">Source</a>
-          </p>
         </header>
       </div>
     );

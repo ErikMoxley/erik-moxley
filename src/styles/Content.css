@@ -8,7 +8,7 @@ a:hover {
 .content {
     background-color: rgba(0, 50, 131, 0.459);
     padding: 50px;
-    padding-top:100px;
+    padding-top: 50px;
     animation: fadeIn ease 2s;
     -webkit-animation: fadeIn ease 2s;
     -moz-animation: fadeIn ease 2s;

@@ -2,7 +2,6 @@ const Skills = () => {
     return (
       <div className="content">
         <header className="title">
-          <p>
             <ul>
               <li>
                 <h3>Languages / Frameworks</h3>
@@ -41,9 +40,7 @@ const Skills = () => {
                 MySQL
               </li>
             </ul>
-          </p>
-          <p>
-            <h3>Technologies</h3>
+            <h3>Technologies / Tools</h3>
           <ul>
             <li>
             Git
@@ -70,7 +67,6 @@ const Skills = () => {
             Figma
             </li>
           </ul>
-          </p>
         </header>
       </div>
     );

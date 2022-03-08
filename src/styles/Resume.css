@@ -20,7 +20,7 @@
   .timeline {
     padding-right: 10px;
     width: 100%;
-    height: 85vh;
+    height: 75vh;
     max-width: 800px;
     margin: 0 auto;
     position: relative;
@@ -72,7 +72,7 @@
       background-color: gray;
     }
     .timeline {
-      height: 65vh;
+      height: 55vh;
     }
     .timeline ul li {
       width: 50%;

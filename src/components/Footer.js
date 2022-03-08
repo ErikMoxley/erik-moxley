@@ -12,7 +12,7 @@ function Footer() {
       <footer className="footer">
     <div className="socials">
       <ul class="social-links">
-          <li class="social-icons"><a rel="noopener noreferrer" target="_blank" href="https://twitter.com/MoxleyDev"><img src={Twitter} alt=""/></a></li>
+          <li class="social-icons"><a rel="noopener noreferrer" target="_blank" href="https://twitter.com/ErikMoxleyDev"><img src={Twitter} alt=""/></a></li>
           <li class="social-icons"><a class="github" rel="noopener noreferrer" target="_blank" href="https://github.com/ErikMoxley"><img src={Github} alt=""/></a></li>
           <li class="social-icons"><a class="linkedin" rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/erickongkaew"><img src={LinkedIn} alt=""/></a></li>
           <li class="social-icons"><a class="polywork" rel="noopener noreferrer" target="_blank" href="https://www.polywork.com/erikmoxley"><img src={Polywork} alt=""/></a></li>

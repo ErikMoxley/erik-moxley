@@ -5,6 +5,14 @@ const About = () => {
     return (
 <div className="timeline-container">
 <h3>Work History</h3>
+<div className='resume-link'>
+      <p>
+        Download:&nbsp;
+        <span>
+        <a href={ResumePdf} target="_blank" rel="noopener noreferrer">Resume PDF</a>
+        </span>
+      </p>
+    </div>
   <div className="timeline">
     <ul>
     <li>
@@ -46,14 +54,6 @@ const About = () => {
       </li>
     </ul>
   </div>
-    <div className='resume-link'>
-      <p>
-        Download:&nbsp;
-        <span>
-        <a href={ResumePdf} target="_blank" rel="noopener noreferrer">Resume PDF</a>
-        </span>
-      </p>
-    </div>
 </div>
     );
   }

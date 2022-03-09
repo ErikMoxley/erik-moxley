@@ -47,12 +47,12 @@ const About = () => {
     </ul>
   </div>
     <div className='resume-link'>
-    <p>
-      Download:&nbsp;
-    <span>
-    <a href={ResumePdf} target="_blank" rel="noopener noreferrer">Resume PDF</a>
-    </span>
-    </p>
+      <p>
+        Download:&nbsp;
+        <span>
+        <a href={ResumePdf} target="_blank" rel="noopener noreferrer">Resume PDF</a>
+        </span>
+      </p>
     </div>
 </div>
     );

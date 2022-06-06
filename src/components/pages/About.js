@@ -25,8 +25,8 @@ const About = () => {
         <br/><br/>
         My resume is filled with years of management and leadership experience in a Pharmacy 
         and Retail setting. Current languages, tools and technologies I use are HTML5, CSS3, 
-        Sass, JavaScript, Bootstrap, ReactJS, Gatsby, NextJS, Git, GitHub, Command Line with 
-        some exposure to Jquery, NodeJS, MongoDB, MySQL and some backend development. 
+        Sass, JavaScript, Bootstrap, ReactJS, NextJS, Git, GitHub, Command Line with 
+        some exposure to Jira/Atlassian, Figma, Jquery, NodeJS, MongoDB, MySQL, Firebase and some backend development. 
         I currently deploy my web projects with GH-Pages, Netlify and Heroku. My next steps are to 
         explore uses of different API's and become well rounded in full-stack development 
         in the near future.

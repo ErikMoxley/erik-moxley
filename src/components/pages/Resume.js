@@ -31,16 +31,17 @@ const About = () => {
       </li>
       <li>
         <div className="timeline-content">
-          <h4 className="date">August 2014 - May 2019</h4>
+          <h4 className="date">September 2015 - May 2019</h4>
           <h1>Walgreens Boots Alliance, International Retail</h1>
-          <p>Store Manager of Pharmacy and Retail Operations</p>
-          <p>Assistant Store Manager</p>
+          <p>Manager of Pharmacy and Retail Operations</p>
+          <p>District Project Manager</p>
         </div>
       </li>
       <li>
         <div className="timeline-content">
-          <h4 className="date">September 2007 - August 2014</h4>
+          <h4 className="date">September 2007 - September 2015</h4>
           <h1>Walgreens Co.</h1>
+          <p>Assistant Manager of Operations</p>
           <p>Shift Leader / Supervisor</p>
           <p>Customer Service Associate</p>
         </div>

@@ -1,4 +1,4 @@
-import profileImg from "../../assets/images/newprofile.jpg"
+import profileImg from "../../assets/images/profile.jpg"
 import "../../styles/Content.css";
 
 const Home = () => {
